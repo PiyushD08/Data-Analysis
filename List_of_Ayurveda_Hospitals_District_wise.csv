@@ -1,0 +1,118 @@
+Sl no,District,Taluk ,Place of Hospitals,Rural/Urban,Syetem of Facility,Types ,Bed Strength
+1,Bagalakote ,Bagalkote  ,Bagalkote  DAH ,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+2,Bagalakote ,Jamakhandi,Jamakhandi,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+3,Bagalakote ,Bilagi,Beelagi,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
+4,Bagalakote ,Hungund,Hungund TAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+5,Bagalakote ,Mudhol,Mudhol TAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+6,Ballary ,Bellary,TGAMC Bellary TCH ,Urban,Ayurveda,Govt. Ayurveda Medical College and Hospital,150
+7,Ballary ,Bellary,Emmiganur,Rural,Ayurveda,Govt. Ayurveda Hosp.,6
+8,Ballary ,Sanduru,Sanduru,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
+9,Ballary ,Hospete,Hospete,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+10,Ballary ,Siraguppa,Siraguppa,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
+11,Ballary ,Hadagali,Hadagali,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
+12,Ballary ,Harapanahalli,Harapanahalli,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
+13,Belagavi,Soundatti,Soundatti,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
+14,Belagavi,Soundatti,Hooli,Rural,Ayurveda,Govt. Ayurveda Hosp.,10
+15,Belagavi,Bailhongal,Bylhongala,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
+16,Belagavi,Athani,Athani,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
+17,Belagavi,Ramadurga,Ramadurga,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
+18,Belagavi,Belagavi,Belagavi DAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+19,Bengaluru Rural,Doddaballapura,Doddaballapura,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
+20,Bengaluru Rural,Nelamangala,Nelamangala TAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+21,Bengaluru Rural,Hosakote ,Hosakote TAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+22,Bengaluru Urban,Bangalore (City),Banglore (SJIIM)TH,Urban,Ayurveda,Govt. Ayurveda Medical College and Hospital.,275
+23,Bengaluru Urban,Bangalore (North),Marenahlli,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
+24,Bengaluru Urban,Bangalore (East),Indiranagara CU Ayurveda,Urban,Ayurveda,Govt. Ayurveda Hosp.,5
+25,Bengaluru Urban,Bangalore (S),Anekal TAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+26,Bidar,Bidar  ,Bidar CU Ayurveda DAH ,Urban,Ayurveda,Govt. Ayurveda Hosp.,15
+27,Bidar,Basavakalyan,Basavakalyan,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
+28,Bidar,Bhalki,Bhalki TAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+29,Chamarajanagara,Chamarajanagar ,Chamarajanagar ,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+30,Chamarajanagara,Gundlupet,Gundlupet,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
+31,Chamarajanagara,Kollegal,Kollegal,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+32,Chikkaballapur,Chintamani,Chintamani,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
+33,Chikkamagalur,Kadur,Kadur,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+34,Chikkamagalur,Mudigere,Mudigere,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
+35,Chikkamagalur,Tarikere,Tarikere,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
+36,Chikkamagalur,Srungeri,Srungeri TAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+37,Chitradurga,Hiriyur,Hiriyur,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+38,Chitradurga,Hiriyur,Imangala,Rural,Ayurveda,Govt. Ayurveda Hosp.,6
+39,Chitradurga,Challakere,Challakere,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
+40,Chitradurga,Hosadurga,Hosadurga TAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+41,Chitradurga,Hosadurga,Doddathekalavatti,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+42,Dakshina Kannada ,Mangalore,Thokuru Jokatte,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
+43,Dakshina Kannada ,Mangalore,Ullala TAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+44,Dakshina Kannada ,Mangalore,Lalbagh CU Ayurveda Mangalore,Urban,Ayurveda,Govt. Ayurveda Hosp.,15
+45,Davanagere,Channagiri,Channagiri TAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+46,Davanagere,Harihara,Harihara TAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+47,Dharwad,Dharwad ,Dharwad  DAH ZP,Urban,Ayurveda,Govt. Ayurveda Hosp.,25
+48,Dharwad,Kalaghattagi,Kalaghattagi  TAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+49,Dharwad,Navalgund,Navalgund  TAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+50,Gadag,Gadag,Betageri-Gadag  DAH  ZP,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+51,Gadag,Ron,Ron,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
+52,Gadag,Mundaragi,Mundargi  TAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+53,Gadag,Nargund,Nargund TAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+54,Hassan,Hassan,Hassan  DAH  ZP,Urban,Ayurveda,Govt. Ayurveda Hosp.,25
+55,Hassan,Hassan,Kattaya,Rural,Ayurveda,Govt. Ayurveda Hosp.,6
+56,Hassan,Arasikere,Belagumba,Rural,Ayurveda,Govt. Ayurveda Hosp.,6
+57,Hassan,Arasikere,Arasikere  TAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+58,Hassan,Holenarasipura,Holenarasipura,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+59,Hassan,Aluru,Aluru TAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+60,Haveri,Shiggavi,Shiggavi,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
+61,Haveri,Ranibennur,Ranibennur,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
+62,Haveri,Byadagi,Byadagi TAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+63,Kalaburgi ,Kalaburagi,Kamalapur,Rural,Ayurveda,Govt. Ayurveda Hosp.,6
+64,Kalaburgi ,Chittapura,Chittapur,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+65,Kalaburgi ,Afzalpura,Afzalpur,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+66,Kalaburgi ,Afzalpura,Devalaganagapura,Rural,Ayurveda,Govt. Ayurveda Hosp.,6
+67,Kalaburgi ,Sedam,Sedam,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
+68,Kalaburgi ,Kalaburagi,Kalaburagi CU Ayurveda DAH ,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+69,Kalaburgi ,Chincholi,Chincholi TAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+70,Kodagu,Madikeri,Madikeri  DAH  ZP,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+71,Kodagu,Virajpete,Virajpete,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+72,Kodagu,Somwarpet,Kushal nagar CU,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+73,Kodagu,Somwarpet,Somwarpet CU,Urban,Ayurveda,Govt. Ayurveda Hosp.,5
+74,Kolar,Srinivasapura,Srinivasapura,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+75,Kolar,Malur,Malur TAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+76,Koppal,Koppal,Koppal DAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
+77,Koppal,Koppal  ,Ginigera,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
+78,Koppal,Gangavati,Gangavati,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+79,Koppal,Yalaburga,Yalaburga TAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+80,Mandya ,Mandya  ,Mandya  DAH ZP,Urban,Ayurveda,Govt. Ayurveda Hosp.,25
+81,Mandya ,Mandya  ,Dudda,Rural,Ayurveda,Govt. Ayurveda Hosp.,6
+82,Mandya ,Malavalli,Malavalli,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
+83,Mandya ,Madduru,Madduru,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
+84,Mandya ,Madduru,Halehalli CU,Rural,Ayurveda,Govt. Ayurveda Hosp.,5
+85,Mysuru ,Mysore,GAMC TH Mysore  ,Urban,Ayurveda,Govt. Ayurveda Medical College and Hospital.,175
+86,Mysuru ,Mysore,Hitech PKU,Urban,Ayurveda,Govt. Ayurveda Panchakrma Hosp.,100
+87,Mysuru ,          HD Kote ,HD Kote   TAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+88,Mysuru ,Nanjangud,Maraluru Goddanapura,Rural,Ayurveda,Govt. Ayurveda Hosp.,6
+89,Mysuru ,Nanjangud,Nanjangud,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
+90,Mysuru ,Hunasur,Hunasuru,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
+91,Mysuru ,Hunasur,Undawadi,Rural,Ayurveda,Govt. Ayurveda Hosp.,10
+92,Mysuru ,KR Nagar,KR Nagara TAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+93,Mysuru ,Piriyapatna,Piriyapattana TAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+94,Raichur,Raichur,Raichur  DAH ZP,Urban,Ayurveda,Govt. Ayurveda Hosp.,15
+95,Raichur,Devadurga,Devadurga  TAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+96,Raichur,Lingasagur,Lingasaguru TAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+97,Ramanagara,Magadi,Magadi,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+98,Ramanagara,Kanakapura,Kanakapura,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
+99,Shivamogga ,Shivamogga ,GAMC Shimoga Teaching Hospital,Urban,Ayurveda,Govt. Ayurveda Medical college and Hospital.,100
+100,Tumkur,Tumkur,Tumkur  DAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,15
+101,Tumkur,Gubbi,Manchaladore,Rural,Ayurveda,Govt. Ayurveda Hosp.,5
+102,Tumkur,Tiptur,Tiptur,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+103,Tumkur,Chikkanayakanahalli,Chikkanayakanahalli,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
+104,Tumkur,Madhugiri,Madhugiri TAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+105,Udupi,Udupi,Udupi DAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+106,Udupi,Kundapur,Kundapura TAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+107,Udupi,karkala,Karkala TAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+108,Uttara Kannada,Karwar,Karwar DAH  ,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+109,Uttara Kannada,Sirsi,Sirsi,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+110,Uttara Kannada,Kumta,Kumta,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
+111,Uttara Kannada,Mundagod,Mundagod,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+112,Uttara Kannada,Haliyal,Dandeli Ambewadi CU Ayurveda,Urban,Ayurveda,Govt. Ayurveda Hosp.,5
+113,Vijayapura,Vijayapura,Bijapura  DAH  ZP,Urban,Ayurveda,Govt. Ayurveda Hosp.,50
+114,Vijayapura,Muddebihal,Muddebihal  TAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+115,Vijayapura,Sindagi,Sindagi TAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,10
+116,Yadgir,Shahapur,Shahapur TAH,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
+117,Yadgir,Yadgir,Yadgir ,Urban,Ayurveda,Govt. Ayurveda Hosp.,6
